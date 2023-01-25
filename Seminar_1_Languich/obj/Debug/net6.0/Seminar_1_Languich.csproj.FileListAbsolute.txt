@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Seminar_1_Languich\bin\Debug\net6.0\Seminar_1_Languich.exe
+C:\Users\User\Desktop\Seminar_1_Languich\bin\Debug\net6.0\Seminar_1_Languich.deps.json
+C:\Users\User\Desktop\Seminar_1_Languich\bin\Debug\net6.0\Seminar_1_Languich.runtimeconfig.json
+C:\Users\User\Desktop\Seminar_1_Languich\bin\Debug\net6.0\Seminar_1_Languich.dll
+C:\Users\User\Desktop\Seminar_1_Languich\bin\Debug\net6.0\Seminar_1_Languich.pdb
+C:\Users\User\Desktop\Seminar_1_Languich\obj\Debug\net6.0\Seminar_1_Languich.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seminar_1_Languich\obj\Debug\net6.0\Seminar_1_Languich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Seminar_1_Languich\obj\Debug\net6.0\Seminar_1_Languich.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seminar_1_Languich\obj\Debug\net6.0\Seminar_1_Languich.AssemblyInfo.cs
+C:\Users\User\Desktop\Seminar_1_Languich\obj\Debug\net6.0\Seminar_1_Languich.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seminar_1_Languich\obj\Debug\net6.0\Seminar_1_Languich.dll
+C:\Users\User\Desktop\Seminar_1_Languich\obj\Debug\net6.0\refint\Seminar_1_Languich.dll
+C:\Users\User\Desktop\Seminar_1_Languich\obj\Debug\net6.0\Seminar_1_Languich.pdb
+C:\Users\User\Desktop\Seminar_1_Languich\obj\Debug\net6.0\Seminar_1_Languich.genruntimeconfig.cache
+C:\Users\User\Desktop\Seminar_1_Languich\obj\Debug\net6.0\ref\Seminar_1_Languich.dll

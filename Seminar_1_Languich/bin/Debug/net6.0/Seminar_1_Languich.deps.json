@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Seminar_1_Languich/1.0.0": {
+        "runtime": {
+          "Seminar_1_Languich.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Seminar_1_Languich/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

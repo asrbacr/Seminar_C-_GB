@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Seminar_2_on_C#\Program_in_Seminar\obj\Debug\net6.0\Program_in_Seminar.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seminar_2_on_C#\Program_in_Seminar\obj\Debug\net6.0\Program_in_Seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Seminar_2_on_C#\Program_in_Seminar\obj\Debug\net6.0\Program_in_Seminar.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seminar_2_on_C#\Program_in_Seminar\obj\Debug\net6.0\Program_in_Seminar.AssemblyInfo.cs
+C:\Users\User\Desktop\Seminar_2_on_C#\Program_in_Seminar\obj\Debug\net6.0\Program_in_Seminar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seminar_2_on_C#\Program_in_Seminar\bin\Debug\net6.0\Program_in_Seminar.exe
+C:\Users\User\Desktop\Seminar_2_on_C#\Program_in_Seminar\bin\Debug\net6.0\Program_in_Seminar.deps.json
+C:\Users\User\Desktop\Seminar_2_on_C#\Program_in_Seminar\bin\Debug\net6.0\Program_in_Seminar.runtimeconfig.json
+C:\Users\User\Desktop\Seminar_2_on_C#\Program_in_Seminar\bin\Debug\net6.0\Program_in_Seminar.dll
+C:\Users\User\Desktop\Seminar_2_on_C#\Program_in_Seminar\bin\Debug\net6.0\Program_in_Seminar.pdb
+C:\Users\User\Desktop\Seminar_2_on_C#\Program_in_Seminar\obj\Debug\net6.0\Program_in_Seminar.dll
+C:\Users\User\Desktop\Seminar_2_on_C#\Program_in_Seminar\obj\Debug\net6.0\refint\Program_in_Seminar.dll
+C:\Users\User\Desktop\Seminar_2_on_C#\Program_in_Seminar\obj\Debug\net6.0\Program_in_Seminar.pdb
+C:\Users\User\Desktop\Seminar_2_on_C#\Program_in_Seminar\obj\Debug\net6.0\Program_in_Seminar.genruntimeconfig.cache
+C:\Users\User\Desktop\Seminar_2_on_C#\Program_in_Seminar\obj\Debug\net6.0\ref\Program_in_Seminar.dll
